@@ -26,7 +26,7 @@ pip install pyputs
 from pyputs import puts
 
 puts('red', 'Hello, world!')
-puts('grenn', 'Hello world!')
+puts('green', 'Hello world!')
 puts('blue', 'Hello world')
 ```
 
