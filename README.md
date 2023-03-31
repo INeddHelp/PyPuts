@@ -7,7 +7,7 @@ It is designed to replace the built-in print() function with a more powerful and
 
 With PyPuts, you can quickly add colors, bold, underline, and other effects to your messages. You can also customize the color and formatting of each message to make it stand out or to match your brand style.
 
-![Screenshot1](https://ibb.co/02PBHwb)
+
 # Features:
 
 - Easy to use: Simply replace print() with puts() to start using PyPuts.
