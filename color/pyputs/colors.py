@@ -34,4 +34,4 @@ class Colors:
             return self.escape_codes[key]
         else:
             raise AttributeError(f"'Colors' object has no attribute '{key}'")
-        
+
