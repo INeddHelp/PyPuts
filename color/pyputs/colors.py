@@ -32,6 +32,5 @@ class Colors:
     def __getattr__(self, key):
         if key in self.escape_codes:
             return self.escape_codes[key]
-        else:
-            raise AttributeError(f"'Colors' object has no attribute '{key}'")
+        raise AttributeError(f"'Colors' object has no attribute '{key}'")
 
