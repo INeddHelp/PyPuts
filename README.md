@@ -18,12 +18,12 @@ With PyPuts, you can quickly add colors, bold, underline, and other effects to y
 # Installation:
 
 You can install PyPuts using pip:
-```
+```bash
 pip install pyputs
 ```
 
 # Usage
-```
+```python
 from pyputs import puts
 
 puts('red', 'Hello, world!')
@@ -34,7 +34,7 @@ puts('blue', 'Hello world')
 ## List of colors:
 
 Escape code:
-```
+```python
 escape_codes = {
     "reset": "\033[0m",
     "bold": "\033[1m",
